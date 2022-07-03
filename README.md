@@ -1,4 +1,4 @@
-# How do temporal networks change over time?
+# Converting molecular dynamics trajectory data to temporal network
 
 ## TASK
 
